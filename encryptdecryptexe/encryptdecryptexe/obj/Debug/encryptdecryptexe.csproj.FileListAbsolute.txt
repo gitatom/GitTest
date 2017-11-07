@@ -2,3 +2,9 @@ C:\Users\sureshk00500\Desktop\encryptdecryptexe\encryptdecryptexe\bin\encryptdec
 C:\Users\sureshk00500\Desktop\encryptdecryptexe\encryptdecryptexe\bin\encryptdecryptexe.pdb
 C:\Users\sureshk00500\Desktop\encryptdecryptexe\encryptdecryptexe\obj\Debug\encryptdecryptexe.dll
 C:\Users\sureshk00500\Desktop\encryptdecryptexe\encryptdecryptexe\obj\Debug\encryptdecryptexe.pdb
+C:\Users\sureshk00500\Source\Repos\GitTest\encryptdecryptexe\encryptdecryptexe\obj\Debug\encryptdecryptexe.csprojResolveAssemblyReference.cache
+C:\Users\sureshk00500\Source\Repos\GitTest\encryptdecryptexe\encryptdecryptexe\obj\Debug\encryptdecryptexe.dll
+C:\Users\sureshk00500\Source\Repos\GitTest\encryptdecryptexe\encryptdecryptexe\obj\Debug\encryptdecryptexe.pdb
+C:\Users\sureshk00500\Source\Repos\GitTest\encryptdecryptexe\encryptdecryptexe\bin\encryptdecryptexe.dll.config
+C:\Users\sureshk00500\Source\Repos\GitTest\encryptdecryptexe\encryptdecryptexe\bin\encryptdecryptexe.dll
+C:\Users\sureshk00500\Source\Repos\GitTest\encryptdecryptexe\encryptdecryptexe\bin\encryptdecryptexe.pdb

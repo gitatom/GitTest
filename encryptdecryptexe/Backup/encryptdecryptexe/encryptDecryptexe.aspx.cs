@@ -18,7 +18,7 @@ namespace encryptdecryptexe
             EencyptData(str);
             string data=DecryptData(encryptedText);
 
-            //////////testing101010
+
 
         }
 
@@ -40,8 +40,6 @@ namespace encryptdecryptexe
         }
         public string EencyptData(string str)
         {
-
-            string data = "";
             UTF8Encoding UTF8 = new UTF8Encoding();
             // .new.DesManaged se=new DesManaged();
             DES des = new DESCryptoServiceProvider();
@@ -56,4 +54,4 @@ namespace encryptdecryptexe
             return encdata;
         }
     }
-}////////testing end
+}
